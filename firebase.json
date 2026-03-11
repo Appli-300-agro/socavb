@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "socavb",
+    "site": "socavb-eyi9t",
     "public": "dist",
     "ignore": [
       "firebase.json",
